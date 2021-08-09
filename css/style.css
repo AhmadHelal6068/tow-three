@@ -682,7 +682,8 @@ li{
     color: #eee;
     padding: 10px 0 30px;
     font-size: 20px;
-    width:300px
+    width:300px;
+    margin:0 auto;
 }
 .blog .box .text a{
     color: #fff;
